@@ -1,10 +1,13 @@
 # Tetiana Stetsyk
+
 ## Contacts
 - **Location**: Ivano-Frankivsk, Ukraine
 - **E-mail**: fun.tano@gmail.com
 - **GitHub**: [tetianastetsyk]
+
 ## About Me
 I am highly motivated, enthusiastic, single-minded person with great ability to self-education.
+
 ## Skills
 - HTML
 - CSS
@@ -12,7 +15,8 @@ I am highly motivated, enthusiastic, single-minded person with great ability to 
 - Git/GitHub/GitBash
 - DevTools
 - VSCode
-## Code Examples
+
+## Code Examples  
 ```
 function booleanToString(b) {
   return String(b);
@@ -29,15 +33,17 @@ if (bullets >= dragons * 2) {
  } else {
   return false
  }
-}
-```
+}  
+```  
 ## Education
 **Precarpathian National University**   
 Bachelor of Philology
+
 ## Courses
 - [HTML & CSS Crash Course]
 - [FreeCodeCamp Responsive Web Design]
 - [JavaScript Tutorial For Beginners]  
+
 ## Languages
 - **Ukrainian** - Native
 - **English** - Intermediate
