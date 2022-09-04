@@ -18,13 +18,21 @@ I am highly motivated, enthusiastic, single-minded person with great ability to 
 - VSCode
 ## Code Examples
 ```
-function booleanToString(b){
+function booleanToString(b) {
   return String(b);
 }
 
 function century(year) {
    let century = year/100;
  return Math.ceil(century)
+}
+
+function hero(bullets, dragons) {
+if (bullets >= dragons * 2) {
+  return true
+ } else {
+  return false
+ }
 }
 ```
 ## Education
